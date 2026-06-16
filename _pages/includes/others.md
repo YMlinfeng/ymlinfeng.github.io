@@ -1,8 +1,67 @@
 # 💻 Internships
+
+- *2025.09 - Present*, **Kuaishou Kling Team**.
+  - Advisor: [Jiwen Liu](https://scholar.google.com/citations?user=placeholder_link) and [Pengfei Wan](https://scholar.google.com/citations?user=vP79L8cAAAAJ&hl=en).
+  - Focus: Controllable Video Foundation Models(ID,Motion,Camera) & World Models.
+
+- *2025.02 - 2025.07*, **ByteDance - Seed Team**.
+  - Advisor: [Ziyang Liu](https://scholar.google.com/citations?user=placeholder_link) and [Hang Li](https://scholar.google.com/citations?user=YAs9M74AAAAJ&hl=en) (Author of *Statistical Learning Methods*).
+  - Focus: Unified Compression for Video Generation & Controllable Driving Video Synthesis.
+
+- *2024.09 - 2024.12*, **360 AI Research**, Visual Engine Department.
+  - Advisor: [Shanyuan Liu](https://scholar.google.com/citations?user=placeholder_link) and [Dawei Leng](https://scholar.google.com/citations?user=N4Y2o1sAAAAJ&hl=en).
+  - Focus: IP-Adapter for Flux & Advanced ControlNet Architectures.
+
+- *2023.11 - 2024.03*, **(OpenMMLab)**.
+  - Focus: Development and evaluation of MMDetection and MMSegmentation(29.2K+ Stars).
+
+
+# 🎓 Academic Service
+
+- **Reviewing**  
+  - *Conferences*: 
+    - **NeurIPS 2026**
+    - **ICML 2026**
+    - **ACM Multimedia (ACM MM) 2026**
+    - ICME 2025-2026
+    - ICASSP 2025
+
+  - *Journals*:
+    - Pattern Recognition (PR)
+    - **Knowledge-Based Systems (KBS)** (Invited Reviewer)
+
+
+# 💬 Miscellaneous
+
+- **Research Taste & Vision**:  
+  I am currently **all-in on Diffusion Models** and **Video Generation**. My ultimate research goal is to construct a robust **World Model** via controllable **Video Foundation Models**, bridging the gap between generative AI and physical reality.
+
+<!-- - **Arts & Sports (A Polymath's Journey)**: -->
+- **Arts & Sports**:
+  - 🖌️ **Calligraphy**: I hold the **Level 9 (Highest Professional Grade)** Certificate from the China Academy of Art (中国美术学院). I see calligraphy as a way to practice patience and structural thinking.
+  - 🏓 **Table Tennis**: An avid player with a **rating of ~1650 on Kaiqiu**. I love the fast-paced strategy and physical intuition involved in every stroke.
+  - 🎹 **Piano**: Grade 7 (Amateur) certified by the China Conservatory of Music.
+  - 🏅 **Athletics**: Passionate about **High Jump** and **Swimming**. I am a huge fan of various sports including Snooker, Football, and Basketball.
+
+- **Public Speaking & Hosting**:
+  I enjoy the stage as much as the lab. It's an honor to serve as the **Host** for prestigious events:
+  - **2026 Peking University Alumni New Year Gala** 
+  - **2025 PKU School of Software and Microelectronics New Year Gala** 
+
+- **Globe Explorer**:  
+  Traveling is my way of resetting. I have explored **8 countries** including France 🇫🇷, Spain 🇪🇸, Thailand 🇹🇭, Singapore 🇸🇬, Mongolia 🇲🇳, Malaysia 🇲🇾, and the Philippines 🇵🇭. Domestically, I have left my footprints in **109 cities** across China. My dream is to explore every corner of the globe. 🌍
+
+
+
+
+
+
+
+
+<!-- # 💻 Internships
 - *2021.03 - 2024.08*, Alibaba Tongyi Wan Team / Alibaba DAMO Academy.
   - Advisor: [Deli Zhao](https://zhaodeli.github.io/), [Shiwei Zhang](https://scholar.google.com/citations?user=ZO3OQ-8AAAAJ&hl=en&oi=ao), [Jianwen Jiang](https://scholar.google.com/citations?user=37gvStUAAAAJ&hl=en) and Mang Wang.
 
-<!-- [Mang Wang](https://scholar.google.com/citations?user=igKgaDwAAAAJ&hl=en&oi=sra)-->
 
 # 🎓 Academic Service
 - **Area Chairs & Senior Program Committee**：
@@ -48,7 +107,7 @@ However, I am not emotionally vulnerable.
     <!--  An AI researcher, but more precisely, a realistic idealist searching for the purpose of life. -->
 
 
-- The following list might be dynamic 😆.
+<!-- - The following list might be dynamic 😆.
 
   - **Favoriate singer**: Taylor Swift. I officially became a Swiftie after the release of "Safe & Sound".
  
@@ -66,7 +125,7 @@ However, I am not emotionally vulnerable.
 
 
 - **English proficiency**: 
-I once dabbled with the TOEFL and snagged a score of 107. Not to brag, but I also clinched the Special Prize (top 0.1%) in the National English Competition for College Students. English reading and writing? Totally my jam, although there's much room for improvement. Flashback to high school: I entertained the idea of moonlighting as a translator. Fast forward to now: English has morphed into more of a hobby as I dive deep into the world of AI research. While I'm certainly no linguistic prodigy, there's a certain joy I find in crafting sentences in English, especially when penning down my research papers. But then GPT-4 came along and made my hobby feel, well, a tad redundant. 😅 Why? Because this section is also polished by GPT-4.
+I once dabbled with the TOEFL and snagged a score of 107. Not to brag, but I also clinched the Special Prize (top 0.1%) in the National English Competition for College Students. English reading and writing? Totally my jam, although there's much room for improvement. Flashback to high school: I entertained the idea of moonlighting as a translator. Fast forward to now: English has morphed into more of a hobby as I dive deep into the world of AI research. While I'm certainly no linguistic prodigy, there's a certain joy I find in crafting sentences in English, especially when penning down my research papers. But then GPT-4 came along and made my hobby feel, well, a tad redundant. 😅 Why? Because this section is also polished by GPT-4. --> 
 
 
 

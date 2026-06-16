@@ -1,7 +1,49 @@
-# 🔥 News
+<!-- # 🔥 News -->
 <!-- 加点表情包,直接复制图片即可  https://github.com/guodongxiaren/README/blob/master/emoji.md?tdsourcetag=s_pcqq_aiomsg -->
 
-- *2026-04* : 📑 [MathFlow](https://arxiv.org/abs/2503.16549) is accepted to **ACL 2026 main Oral** and [FSAR-LLaVA](https://arxiv.org/abs/2603.26033) is accepted to **IJCV**.
+
+
+# 🔥 News
+
+- *2026-06* : 🎬 [**OmniDirector**](https://ymlinfeng.github.io/OmniDirector.github.io/) is officially launched on **Kling Omni**! It enables **General Multi-Shot Camera Cloning**. Check out our [**Project Page**](https://ymlinfeng.github.io/OmniDirector.github.io/) and [**YouTube Demo**](https://www.youtube.com/watch?v=kT6ccsFSYpY)! 🚀🌍
+
+- *2026-05* : 🪄 Our **Motion Controllable Video Generation** project has been successfully integrated into **Kling 3.0**, empowering users with advanced movement control. 🏃‍♂️💨
+
+- *2026-03* : 🆔 The **Subject-ID Injection** module is now online as a core feature of the **Kling 3.0 ID Subject Library**, achieving SOTA identity consistency. 🎭✨
+
+- *2026-02* : 📑 [**ARGUS**](https://arxiv.org/abs/2606.11670) and [**3D-RAD**](https://scholar.google.com/citations?user=YMlinfeng) are accepted to **NeurIPS 2026**. [**Make a Game**](https://github.com/YMlinfeng/360) is accepted to **ICASSP 2026**. Cheers! 🍻
+
+- *2025-12* : 📄 Finished the technical report for **Avatar 2.0 Identity Preservation**, bridging the gap between static ID and dynamic video. 🤖📑
+
+- *2025-11* : 👷 I start my internship at **Kuaishou Kling**, focusing on Video Foundation Models. 📸🎬
+
+- *2025-10* : 📑 [**Robust Sand Removal**](https://dl.acm.org/doi/10.1145/3664647.3681404) is accepted to **ACM Multimedia (ACM MM) 2025**. Congrats to the team! 🏜️🔍
+
+- *2025-09* : 🚀 Joined **Fan Hua Tech** as the **AI Team Lead**, reconstructing business logic with Generative AI and Agentic workflows. 🛠️🧠
+
+- *2025-05* : 👑 I am honored to receive the <span style="color:red"><strong>May Fourth Scholarship</strong></span> (北京大学五四奖学金), the **Highest Individual Honor** at **Peking University** (Top 0.1%). 🎖️🏛️
+
+- *2025-02* : 👷 I join **ByteDance - Seed Team** as a Research Intern, working on high-efficiency video compression and controllable generation. 🎥⚡
+
+- *2024-09* : 🏫 Officially started my Master's journey at <span style="color:blue"><strong>Peking University</strong></span>. Meanwhile, I join **360 AI Research** to explore Flux-based architectures. 🖋️🎓
+
+- *2024-06* : 🎓 Graduated from **Xiamen University** with a <span style="color:green"><strong>Double Degree</strong></span> in **Artificial Intelligence** and **Finance** (from WISE). Honored as **Outstanding Graduate** and **Outstanding Thesis**! 📜🏅
+
+- *2024-03* : 📑 [**Orpaint**](https://link.springer.com/article/10.1007/s11432-024-4113-x) is accepted to **Science China Information Sciences (SCIS, CCF-A)**. 🎨🏛️
+
+- *2023-07* : 🥇 Admitted to **Peking University** via Summer Camp, ranking <span style="color:orange"><strong>2/91</strong></span> in the Department of AI at XMU. 🏔️☀️
+
+- *2023-06* : 👷 Started my internship at **Shanghai AI Lab (OpenMMLab)**, contributing to MMDetection and MMSegmentation. 💻⭐
+
+- *2022-11* : 🏆 Won the **First Prize** in Fujian Mobile Application Innovation Competition for mural protection work. 🏮🎨
+
+- *2022-08* : 🏆 Awarded **First Prize** in China-US Young Maker Competition (South China Region). 🛠️🇺🇸
+
+
+
+
+
+<!-- - *2026-04* : 📑 [MathFlow](https://arxiv.org/abs/2503.16549) is accepted to **ACL 2026 main Oral** and [FSAR-LLaVA](https://arxiv.org/abs/2603.26033) is accepted to **IJCV**.
 
 - *2026-03* : 🪄🦉 I will serve as an <span style="color:red"><strong>Area Chair</strong></span> for NeurIPS 2026.
 
@@ -53,5 +95,5 @@
 
 - *2021-03* : 👷 I start my internship at Alibaba **DAMO Academy**.
 
-- *2020-12* : 📑 [Learning Visual Context](https://ojs.aaai.org/index.php/AAAI/article/view/16437) (for Group Activity recognition) is accepted to **AAAI 2021**.
+- *2020-12* : 📑 [Learning Visual Context](https://ojs.aaai.org/index.php/AAAI/article/view/16437) (for Group Activity recognition) is accepted to **AAAI 2021**. -->
 

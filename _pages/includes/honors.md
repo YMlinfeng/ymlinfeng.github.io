@@ -1,4 +1,29 @@
 # 🎖 Honors and Awards
+Below, I exhaustively list some of my Honors and Awards that inspire me a lot.
+
+- ***2026-05*** &nbsp;&nbsp; **Bronze Medal in the 3rd National Advanced Computing Technology Competition (Top 1% / Top 10 teams nationwide)** (第三届全国先进计算技术大赛全国总决赛铜奖)
+- ***2025-05* &nbsp;&nbsp; May Fourth Scholarship of Peking University (The highest individual honor of PKU, Top 0.1% / Only 2 candidates in our college)** (北京大学五四奖学金)
+- *2025-10* &nbsp;&nbsp; Merit Student of Peking University (北京大学三好学生)
+- ***2024-05* &nbsp;&nbsp; Golden Kapok Medal of Xiamen University (The highest honor of XMU, Top 0.01% / Only 10 students school-wide)** (厦门大学金木棉奖章)
+- *2024-06* &nbsp;&nbsp; Outstanding Graduate of Xiamen University (厦门大学优秀毕业生)
+- *2024-06* &nbsp;&nbsp; Outstanding Graduation Thesis of Xiamen University (Top score in Department) (厦门大学优秀毕业设计)
+- *2024-05* &nbsp;&nbsp; ICBC Scholarship (工商银行奖学金)
+- *2024-03* &nbsp;&nbsp; Outstanding Student Leader of Xiamen University (厦门大学优秀学生干部)
+- ***2023-10* &nbsp;&nbsp; National Scholarship (Top 1% among all undergraduates)** (国家奖学金)
+- *2023-09* &nbsp;&nbsp; First-Class Academic Excellence Scholarship of Xiamen University (Top 3%) (学业优秀一等奖学金)
+- *2023-05* &nbsp;&nbsp; Merit Student of Xiamen University (厦门大学优秀三好学生)
+- *2022-11* &nbsp;&nbsp; First Prize in Fujian Mobile Application Innovation Competition (Provincial Level) (福建省移动应用创新赛省级一等奖)
+- *2022-09* &nbsp;&nbsp; First-Class Academic Excellence Scholarship of Xiamen University (Top 3%) (学业优秀一等奖学金)
+- *2022-08* &nbsp;&nbsp; First Prize in China-US Young Maker Competition (South China Region) (中美青年创客大赛华南赛区一等奖)
+- *2021-11* &nbsp;&nbsp; Second Prize in National Mathematical Modeling Contest (Top 5%) (全国大学生数学建模竞赛二等奖)
+- *2021-09* &nbsp;&nbsp; First-Class Academic Excellence Scholarship of Xiamen University (Top 3%) (学业优秀一等奖学金)
+- *2021-05* &nbsp;&nbsp; Honorable Mention in Mathematical Contest in Modeling (MCM/ICM)
+
+
+
+
+
+<!-- # 🎖 Honors and Awards
 Below, I exhasutively list some of my Honors and Awards that inspire me a lot.
 
 - ***2025-09* &nbsp;&nbsp; Zhejiang Provincial Special Grant for Postdoctoral Research (Top 10 in Zhejiang Province)** (浙江省博士后科研项目特别资助)
@@ -18,13 +43,4 @@ Below, I exhasutively list some of my Honors and Awards that inspire me a lot.
 - ***2016-11* &nbsp;&nbsp; National Scholarship (Top 1% among all undergraduates)**
 - ***2016-05* &nbsp;&nbsp; Special Prize, National English Competition for College Students (Top 0.1%)**
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Tencent Scholarship (Top 1%)
-- *2021.10* National Scholarship (Top 1%)
-- *2020.12* [Baidu Scholarship](https://baike.baidu.com/item/%E7%99%BE%E5%BA%A6%E5%A5%96%E5%AD%A6%E9%87%91/9929412) (10 students in the world each year)
-- *2020.12* [AI Chinese new stars](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (100 worldwide each year)
-- *2020.12* [AI Chinese New Star Outstanding Scholar](https://mp.weixin.qq.com/s?__biz=MzA4NzQ5MTA2NA==&mid=2653639431&idx=1&sn=25b6368c1954419b9090840347d9a27d&chksm=8be75b90bc90d286a5af3ef8e610e822d705dc3cf4382b45e3f14489f3e7ec4fd8c95ed0eceb&mpshare=1&scene=2&srcid=0511LMlj9Qv9DeIZAjMjYAU9&sharer_sharetime=1620731348139&sharer_shareid=631c113940cb81f34895aa25ab14422a#rd) (10 candidates worldwide each year)
-- *2020.12* ByteDance Scholars Program (10 students in China each year)
-- *2020.10* Tianzhou Chen Scholarship (Top 1%)
-- *2020.10* National Scholarship (Top 1%)
-- *2015.10* National Scholarship (Undergraduate) (Top 1%) -->
+ -->
