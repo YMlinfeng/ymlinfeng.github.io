@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hangjie Yuan (袁杭杰)"
-description              : "An AI researcher that prioritizes human well-being."
+title                    : "Zijie Meng" # 
+description              : "Open for collaboration on Multimodal, AIGC & Video."
                          # "An AI researcher, but more precisely, a realistic idealist searching for the purpose of life."
-repository               : "JacobYuan7/jacobyuan7.github.io"
+repository               : "YMlinfeng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,14 +23,14 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Hangjie Yuan" # (袁杭杰)
+  name             : "Zijie Meng" #
   avatar           : "images/Avatar.jpg"
-  bio              : "Alibaba DAMO Academy / Zhejiang University"
-  location         : "China / Singapore"
+  bio              : "Peking University / Kuaishou Kling Team"
+  location         : "China Beijing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jQ3bFDMAAAAJ&hl=en&oi=ao"
-  email            : "hj.yuan@zju.edu.cn"
+  email            : "ymlf@stu.pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -39,7 +39,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JacobYuan7"
+  github           : "YMlinfeng"
   google_plus      :
   keybase          :
   instagram        :
@@ -47,13 +47,13 @@ author:
   lastfm           :
   linkedin         : # "rayeren"
   dblp             : # "https://dblp.org/pid/75/6568-6.html"
-  orcid            : # "https://orcid.org/0000-0002-9160-3848"
+  orcid            : "https://orcid.org/0009-0003-1915-3381"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : Jacob9972
+  twitter          : 
   vine             :
   weibo            :
   xing             :
