@@ -21,12 +21,12 @@ Jiwen Liu, Shuo Li, Zhang Fang, Xiang Li, Yitong Zhou, **Zijie Meng**, et al.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/ARGUS.png' alt="ARGUS" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/argus.png' alt="ARGUS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2026**] [ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation](https://arxiv.org/abs/2606.11670) \\
 **Zijie Meng**, Jiwen Liu, Yu Liu, Chen Tong, Xiao Liu, Yingya Zhang, Yong Xu, Pengfei Wan.\\
-[[Code]](https://github.com/YMlinfeng/) (Internal/Coming soon)
+[[Code]](https://github.com/YMlinfeng/) (Internal)
 
 - We propose **ARGUS**, a novel framework for subject-preserving video generation using stacked multi-view identity mosaic injection, ensuring high fidelity and temporal consistency.
 - This work was conducted during my internship at Kuaishou Kling, focusing on controllable identity injection in foundation video models.
@@ -34,7 +34,7 @@ Jiwen Liu, Shuo Li, Zhang Fang, Xiang Li, Yitong Zhou, **Zijie Meng**, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/make_a_game.png' alt="Make A Game" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026 Oral</div><img src='images/make_a_game.png' alt="Make A Game" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICASSP 2026 oral**] [Make a Game: A Novel Paradigm for Interactive Game Rendering](https://github.com/YMlinfeng/) \\
@@ -103,7 +103,7 @@ Bo Wei, Huafeng Liu, Cheng Qian, Zizheng Li, Wenbo Wu, **Zijie Meng**. \\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/mst_clipiqa.png' alt="MST-CLIPIQA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026 Spotlight</div><img src='images/mst_clipiqa.png' alt="MST-CLIPIQA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ICME 2026 <span style="color:red"><strong>Spotlight</strong></span>**] [Decoupling Semantics from Distortions: Multi-Scale Two-Stream Vision-Language Alignment for AI-Generated Image Quality Assessment](https://arxiv.org/abs/2606.16799) \\

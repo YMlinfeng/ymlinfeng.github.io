@@ -9,9 +9,11 @@
 
 - *2026-05* : 🪄 Our **Motion Controllable Video Generation** project has been successfully integrated into **Kling 3.0**, empowering users with advanced movement control. 🏃‍♂️💨
 
+- *2026-04* : 📑 We release [**ARGUS**](https://arxiv.org/abs/2606.11670) on arXiv, a framework for **Subject-Preserving Video Generation** via stacked multi-view identity mosaic injection. Check it out! 🎭📄
+
 - *2026-03* : 🆔 The **Subject-ID Injection** module is now online as a core feature of the **Kling 3.0 ID Subject Library**, achieving SOTA identity consistency. 🎭✨
 
-- *2026-02* : 📑 [**ARGUS**](https://arxiv.org/abs/2606.11670) and [**3D-RAD**](https://scholar.google.com/citations?user=YMlinfeng) are accepted to **NeurIPS 2026**. [**Make a Game**](https://github.com/YMlinfeng/360) is accepted to **ICASSP 2026**. Cheers! 🍻
+- *2026-02* : 📑 [**3D-RAD**](https://scholar.google.com/citations?user=YMlinfeng) is accepted to **NeurIPS 2026**. [**Make a Game**](https://github.com/YMlinfeng/360) is accepted to **ICASSP 2026**. Cheers! 🍻
 
 - *2025-12* : 📄 Finished the technical report for **Avatar 2.0 Identity Preservation**, bridging the gap between static ID and dynamic video. 🤖📑
 
@@ -38,6 +40,7 @@
 - *2022-11* : 🏆 Won the **First Prize** in Fujian Mobile Application Innovation Competition for mural protection work. 🏮🎨
 
 - *2022-08* : 🏆 Awarded **First Prize** in China-US Young Maker Competition (South China Region). 🛠️🇺🇸
+
 
 
 
