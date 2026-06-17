@@ -2,9 +2,9 @@
 
 # 🤓 Greetings! 
 
-I am **Zijie Meng (孟子杰)**, a second-year Master's student at **Peking University** (PKU). Currently, I am a Research Intern at **Kuaishou Kling Team**, working with [[Jiwen Liu](https://scholar.google.com/citations?user=placeholder_link), and [Pengfei Wan](https://scholar.google.com/citations?user=vP79L8cAAAAJ&hl=en) on the next generation of video foundation models.
+I am **Zijie Meng (孟子杰)**, a second-year Master's student at **Peking University** (PKU). Currently, I am a Research Intern at **Kuaishou Kling Team**, working with [Jiwen Liu](https://www.linkedin.com/in/%E7%BB%A7%E6%96%87-%E5%88%98-805344179/), and [Pengfei Wan](https://scholar.google.com/citations?user=vP79L8cAAAAJ&hl=en) on the next generation of video foundation models.
 
-I obtained my **Double Bachelor's Degrees** in **Artificial Intelligence** and **Finance** (from the Wang Yanan Institute for Studies in Economics, WISE) from **Xiamen University** in 2024. My research journey in Generative AI began at the **MAC Lab**, supervised by Prof. [Rongrong Ji](https://scholar.google.com/citations?user=S80S6_MAAAAJ&hl=en). Since then, I have been fortunate to hone my skills through research internships at **ByteDance (Seed Team)**, **360 AI Research**, and **Shanghai AI Lab (OpenMMLab)**.
+I obtained my **Double Bachelor's Degrees** in **Artificial Intelligence** and **Finance** (from the Wang Yanan Institute for Studies in Economics, WISE) from **Xiamen University** in 2024. My research journey in Generative AI began at the **MAC Lab**, supervised by Prof. [Fei Chao](https://scholar.google.com/citations?user=srS6rNMAAAAJ&hl=zh-CN) and Prof. [Rongrong Ji](https://scholar.google.com/citations?user=lRSD7PQAAAAJ&hl=zh-CN). Since then, I have been fortunate to hone my skills through research internships at **ByteDance (Seed Team)**, **360 AI Research**, and **Shanghai AI Lab (OpenMMLab)**.
 
 I am incredibly honored to be the recipient of the <span style="color:red"><strong>Peking University May Fourth Scholarship</strong></span> (the highest individual honor at PKU) and the <span style="color:green"><strong>Xiamen University Golden Kapok Medal</strong></span> (one of the highest honor at XMU, Top 0.01% school-wide).
 
@@ -13,7 +13,7 @@ I am incredibly honored to be the recipient of the <span style="color:red"><stro
 ### 🚀 Research Vision: Towards the World Model
 Since I first encountered Diffusion Models in 2023, I have been captivated by their immense generative power. I believe that **generative capability is the ultimate goal for achieving AGI**. In my philosophy, achieving "controllable generation at will" is the definitive path to constructing a true **World Model**. To perfectly control the generation of a world, the model must inherently possess a profound and comprehensive understanding of that world's physics, semantics, and dynamics.
 
-My representative projects include [**OmniDirector**](https://ymlinfeng.github.io/OmniDirector.github.io/) (Developed on Kling Omni, Camera Control), [**Kling 3.0**](https://klingai.com/) (Subject-ID & Motion Control), [**ARGUS**](https://arxiv.org/abs/2606.11670)(ID Control), [**Orpaint**](https://link.springer.com/article/10.1007/s11432-024-4113-x) (Visual Mamba-based Inpainting), and [**Make-a-Game**](https://github.com/YMlinfeng/360) (Game Video Generation).
+My representative projects include [**OmniDirector**](https://ymlinfeng.github.io/OmniDirector.github.io/) (Developed on Kling Omni, Camera Control), [**Kling 3.0**](https://klingai.com/) (Subject-ID & Motion Control), [**ARGUS**](https://arxiv.org/abs/2606.11670)(ID Control), [**Orpaint**](https://link.springer.com/article/10.1007/s11432-024-4113-x) (Visual Mamba-based Inpainting), and [**Make-a-Game**](https://github.com/YMlinfeng/MAG) (Game Video Generation).
 
 ---
 
