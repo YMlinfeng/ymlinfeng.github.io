@@ -21,7 +21,7 @@ Jiwen Liu, Shuo Li, Zhang Fang, Xiang Li, Yitong Zhou, **Zijie Meng**, et al.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/argus.png' alt="ARGUS" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/a.png' alt="ARGUS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2026**] [ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation](https://arxiv.org/abs/2606.11670) \\
