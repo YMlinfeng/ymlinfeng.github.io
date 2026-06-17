@@ -31,7 +31,7 @@
 
 - *2024-03* : 📑 [**Orpaint**](https://link.springer.com/article/10.1007/s11432-024-4113-x) is accepted to **Science China Information Sciences (SCIS, CCF-A)**. 🎨🏛️
 
-- *2023-07* : 🥇 Admitted to **Peking University** via Summer Camp, ranking <span style="color:orange"><strong>2/91</strong></span> in the Department of AI at XMU. 🏔️☀️
+- *2023-07* : 🥇 Admitted to **Peking University** via Summer Camp.
 
 - *2023-06* : 👷 Started my internship at **Shanghai AI Lab (OpenMMLab)**, contributing to MMDetection and MMSegmentation. 💻⭐
 

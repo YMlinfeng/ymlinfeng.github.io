@@ -21,12 +21,12 @@ Jiwen Liu, Shuo Li, Zhang Fang, Xiang Li, Yitong Zhou, **Zijie Meng**, et al.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/argus_overview.png' alt="ARGUS" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/ARGUS.png' alt="ARGUS" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2026**] [ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation](https://arxiv.org/abs/2606.11670) \\
 **Zijie Meng**, Jiwen Liu, Yu Liu, Chen Tong, Xiao Liu, Yingya Zhang, Yong Xu, Pengfei Wan.\\
-[[Code]](https://github.com/YMlinfeng/360) (Internal/Coming soon)
+[[Code]](https://github.com/YMlinfeng/) (Internal/Coming soon)
 
 - We propose **ARGUS**, a novel framework for subject-preserving video generation using stacked multi-view identity mosaic injection, ensuring high fidelity and temporal consistency.
 - This work was conducted during my internship at Kuaishou Kling, focusing on controllable identity injection in foundation video models.
@@ -37,7 +37,7 @@ Jiwen Liu, Shuo Li, Zhang Fang, Xiang Li, Yitong Zhou, **Zijie Meng**, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/make_a_game.png' alt="Make A Game" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICASSP 2026 oral**] [Make a Game: A Novel Paradigm for Interactive Game Rendering](https://github.com/YMlinfeng/360) \\
+[**ICASSP 2026 oral**] [Make a Game: A Novel Paradigm for Interactive Game Rendering](https://github.com/YMlinfeng/) \\
 **Zijie Meng**, Jian Che, Bo Wei, Xuesong Cao. \\
 [[Award]](https://github.com/YMlinfeng) <span style="color:red"><strong>First Prize in PKU Challenge Cup</strong></span>
 
@@ -47,6 +47,17 @@ Jiwen Liu, Shuo Li, Zhang Fang, Xiang Li, Yitong Zhou, **Zijie Meng**, et al.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/omnidrive.png' alt="OmniDrive" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**arXiv 2026**] [OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation](https://github.com/YMlinfeng/) \\
+**Zijie Meng***, Yufei Liu*, Chengqian Ma, Zhiyu Li, Jiyuan Liu, Wenhua Nie, Bingcai Wei, Shuqin Chen, Weichen Xu, Jiquan Yuan, **Miao Zhang†**.
+
+- We present OmniDrive, an LLM-choreographed world model for multi-view driving video generation, enabling coordinated multi-agent simulation.
+- Introduced a unified latent co-compression mechanism to ensure spatial-temporal consistency across multiple camera views in complex driving environments.
+
+</div>
+</div>
 
 
 ## Dataset
@@ -109,7 +120,7 @@ Bo Wei, Huafeng Liu, Cheng Qian, Zizheng Li, Wenbo Wu, **Zijie Meng**. \\
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/synpo.png' alt="SynPo" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**MICCAI 2025**] [SynPo: Boosting Training-Free Few-Shot Medical Segmentation via High-Quality Negative Prompts](https://scholar.google.com/citations?user=YMlinfeng) \\
+[**MICCAI 2025**] [SynPo: Boosting Training-Free Few-Shot Medical Segmentation via High-Quality Negative Prompts](https://arxiv.org/pdf/2506.15153?) \\
 Y Liu, H Xiao, J Chai, Y Zhang, R Wang, **Zijie Meng**, Z Luo. \\
 <span style="color:red"><strong>CCF-B Conference / Medical AI Top Conference</strong></span>
 
