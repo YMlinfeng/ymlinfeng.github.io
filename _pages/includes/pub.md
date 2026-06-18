@@ -13,7 +13,7 @@
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2026 Kling Team**] [OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data](https://arxiv.org/abs/2606.13432) \\
-Jiwen Liu, Shuo Li, Zhang Fang, Xiang Li, Yitong Zhou, **Zijie Meng**, et al.
+Jiwen Liu, Shujuan Li, Zhixue Fang, Xiaohan Li, Yan Zhou, **Zijie Meng**, et al.
 
 - We propose OmniDirector, a general framework for multi-shot camera cloning that operates without the need for cross-paired data, significantly advancing camera control in video synthesis.
 
@@ -25,7 +25,7 @@ Jiwen Liu, Shuo Li, Zhang Fang, Xiang Li, Yitong Zhou, **Zijie Meng**, et al.
 <div class='paper-box-text' markdown="1">
 
 [**arXiv 2026**] [ARGUS: Stacked Multi-View Identity Mosaic Injection for Subject-Preserving Video Generation](https://arxiv.org/abs/2606.11670) \\
-**Zijie Meng**, Jiwen Liu, Yu Liu, Chen Tong, Xiao Liu, Yingya Zhang, Yong Xu, Pengfei Wan.\\
+**Zijie Meng**, Jiwen Liu, Yufei Liu, Chengzhuo Tong, Xiaoqiang Liu, Yuanxing Zhang, Yulong Xu, Pengfei Wan†.\\
 [[Code]](https://github.com/YMlinfeng/) (Internal)
 
 - We propose **ARGUS**, a novel framework for subject-preserving video generation using stacked multi-view identity mosaic injection, ensuring high fidelity and temporal consistency.
@@ -38,7 +38,7 @@ Jiwen Liu, Shuo Li, Zhang Fang, Xiang Li, Yitong Zhou, **Zijie Meng**, et al.
 <div class='paper-box-text' markdown="1">
 
 [**ICASSP 2026 oral**] [Make a Game: A Novel Paradigm for Interactive Game Rendering](https://github.com/YMlinfeng/) \\
-**Zijie Meng**, Jian Che, Bo Wei, Xuesong Cao. \\
+**Zijie Meng**, Jinming Che, Bingcai Wei, Xixin Cao†. \\
 [[Award]](https://github.com/YMlinfeng) <span style="color:red"><strong>First Prize in PKU Challenge Cup</strong></span>
 
 - We introduce a novel paradigm for interactive game rendering using unified tokens and lightweight plugins, enhancing controllability in video generation.
@@ -66,7 +66,7 @@ Jiwen Liu, Shuo Li, Zhang Fang, Xiang Li, Yitong Zhou, **Zijie Meng**, et al.
 <div class='paper-box-text' markdown="1">
 
 [**NeurIPS 2026**] [3d-rad: A Comprehensive 3d Radiology Med-vqa Dataset with Multi-temporal Analysis and Diverse Diagnostic Tasks](https://scholar.google.com/citations?user=YMlinfeng) \\
-X Gai, J Liu, Y Li, **Zijie Meng**, J Wu, Z Liu.
+Xiaotang Gai, Jiaxiang Liu, Yichen Li, **Zijie Meng**, Jian Wu, Zuozhu Liu.
 
 - We introduce **3D-RAD**, the most comprehensive 3D radiology dataset for Medical VQA, supporting multi-temporal analysis and diverse clinical diagnostic tasks.
 
@@ -80,7 +80,7 @@ X Gai, J Liu, Y Li, **Zijie Meng**, J Wu, Z Liu.
 <div class='paper-box-text' markdown="1">
 
 [**Science China Info. Sci. 2025**] [Orpaint: A Zero-Shot Inpainting Model for Oracle Bone Inscription Rubbings with Visual Mamba Block](https://link.springer.com/article/10.1007/s11432-024-4113-x) \\
-**Zijie Meng**, Yuer Zeng, Xiang Chang, Tianyang Xu, Fei Chao, Xuesong Cao, Chun Chen, Qiang Shen. \\
+**Zijie Meng**, Yuanze Zeng, Xiang Chang, Tianshuo Xu, Fei Chao†, Xixin Cao, Changjing Shang, Qiang Shen. \\
 [[Journal]](https://www.sciengine.com/SCIS/home) <span style="color:red"><strong>JCR-Q1, CCF-A</strong></span>
 
 - We propose **Orpaint**, the first zero-shot inpainting model specifically designed for Oracle Bone Inscription (甲骨文) restoration.
