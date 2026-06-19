@@ -30,7 +30,6 @@ Jiwen Liu, Shujuan Li, Zhixue Fang, Xiaohan Li, Yan Zhou, **Zijie Meng**, et al.
 
 - We introduce the **Parallax Number ($\Pi$)**, a dimensionless, gauge-invariant descriptor that enables scale-faithful camera-motion transfer across disparate scenes (e.g., from galaxy sweeps to desk nudges).
 - **ParaScale** is a plug-and-play module that re-realizes camera moves against target depths without retraining, cutting Parallax Consistency Error (PCE) by over **3x** while preserving cinematic rotation.
-- This work provides a geometric foundation for motion transfer in pose-conditioned video generators, ensuring physical plausibility across scale regimes spanning four orders of magnitude.
 
 </div>
 </div>
