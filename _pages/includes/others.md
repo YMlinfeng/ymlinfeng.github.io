@@ -1,19 +1,29 @@
 # 💻 Internships
 
-- *2025.09 - Present*, **Kuaishou Kling Team**.
-  - Advisor: [Jiwen Liu](https://scholar.google.com/citations?user=placeholder_link) and [Pengfei Wan](https://scholar.google.com/citations?user=vP79L8cAAAAJ&hl=en).
-  - Focus: Controllable Video Foundation Models(ID,Motion,Camera) & World Models.
+- *2025.11 - Present*, **Kuaishou Kling Team**.
+  - Advisor: [Jiwen Liu](linkedin.com/in/继文-刘-805344179?originalSubdomain=cn) and [Pengfei Wan](https://scholar.google.com/citations?hl=zh-CN&user=P6MraaYAAAAJ).
+  - Focus: Controllable Video Foundation Models (ID, Motion, Camera) & World Models.
+
+- *2025.09 - Present*, **Hangzhou Fanhua Tech**.
+  - Role: **AI Algorithm Lead**.
+  - Focus: Reconstructing business logic via Generative AI & Agentic workflows. Fine-tuning Qwen3-7B for layout generation; Developing a multi-agent workflow system for the company's business operations.
 
 - *2025.02 - 2025.07*, **ByteDance - Seed Team**.
   - Advisor: [Ziyang Liu](https://scholar.google.com/citations?user=placeholder_link) and [Hang Li](https://scholar.google.com/citations?user=YAs9M74AAAAJ&hl=en) (Author of *Statistical Learning Methods*).
   - Focus: Unified Compression for Video Generation & Controllable Driving Video Synthesis.
 
 - *2024.09 - 2024.12*, **360 AI Research**, Visual Engine Department.
-  - Advisor: [Shanyuan Liu](https://scholar.google.com/citations?user=placeholder_link) and [Dawei Leng](https://scholar.google.com/citations?user=N4Y2o1sAAAAJ&hl=en).
-  - Focus: IP-Adapter for Flux & Advanced ControlNet Architectures.
+  - Advisor: [Shanyuan Liu](https://scholar.google.com/citations?user=vutZ7LcAAAAJ&hl=zh-CN) and [Dawei Leng](https://scholar.google.com/citations?hl=zh-CN&user=pv6QIggAAAAJ).
+  - Focus: Bridge Diffusion for Flux & Advanced Controlable Image Generation Architectures (IP-Adapter).
 
-- *2023.11 - 2024.03*, **(OpenMMLab)**.
-  - Focus: Development and evaluation of MMDetection and MMSegmentation(29.2K+ Stars).
+- *2023.03 - 2024.07*, **MAC Lab, Xiamen University**.
+  - Advisor: Prof. [Fei Chao](https://scholar.google.com/citations?user=srS6rNMAAAAJ&hl=zh-CN) and Prof. [Rongrong Ji](https://scholar.google.com/citations?user=lRSD7PQAAAAJ&hl=zh-CN).
+  - Focus: **Diffusion Theory Exploration & Image Restoration**. 
+  - Project: Led the **Cultural Relic Restoration** project in collaboration with the **Fujian Museum**, applying Stable Diffusion and Mamba-based blocks to recover Oracle Bone Inscriptions and ancient murals.
+
+- *2023.11 - 2024.03*, **Shanghai AI Laboratory (OpenMMLab)** [**Online**].
+  - Focus: Development and evaluation of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) (29.2K+ Stars). Responsible for framework reconstruction and interface development.
+
 
 
 # 🎓 Academic Service
@@ -23,6 +33,7 @@
     - **NeurIPS 2026**
     - **ICML 2026**
     - **ACM Multimedia (ACM MM) 2026**
+    - EMNLP 2026
     - ICME 2025-2026
     - ICASSP 2025
 
