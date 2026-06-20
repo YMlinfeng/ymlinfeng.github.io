@@ -9,7 +9,7 @@
   - Focus: Reconstructing business logic via Generative AI & Agentic workflows. Fine-tuning Qwen3-7B for layout generation; Developing a multi-agent workflow system for the company's business operations.
 
 - *2025.02 - 2025.07*, **ByteDance - Seed Team**.
-  - Advisor: [Ziyang Liu](https://scholar.google.com/citations?user=placeholder_link) and [Hang Li](https://scholar.google.com/citations?user=YAs9M74AAAAJ&hl=en) (Author of *Statistical Learning Methods*).
+  - Advisor: [Ziyang Liu](https://scholar.google.com/citations?hl=zh-CN&user=L3igECkAAAAJ) and [Hang Li](https://scholar.google.com/citations?user=nTl5mSwAAAAJ&hl=zh-CN&oi=ao) (Author of *Statistical Learning Methods*).
   - Focus: Unified Compression for Video Generation & Controllable Driving Video Synthesis.
 
 - *2024.09 - 2024.12*, **360 AI Research**, Visual Engine Department.
