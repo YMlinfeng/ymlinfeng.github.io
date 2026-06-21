@@ -135,7 +135,7 @@ Bo Wei, Huafeng Liu, Cheng Qian, Zizheng Li, Wenbo Wu, **Zijie Meng**. \\
 <div class='paper-box-text' markdown="1">
 
 [**MICCAI 2025**] [SynPo: Boosting Training-Free Few-Shot Medical Segmentation via High-Quality Negative Prompts](https://arxiv.org/pdf/2506.15153?) \\
-Y Liu, H Xiao, J Chai, Y Zhang, R Wang, **Zijie Meng**, Z Luo. \\
+Yufei Liu, Haoke Xiao, J Chai, Y Zhang, R Wang, **Zijie Meng**, Zhiming Luo. \\
 <span style="color:red"><strong>CCF-B Conference / Medical AI Top Conference</strong></span>
 
 - We propose **SynPo**, which boosts training-free medical image segmentation by utilizing high-quality negative prompts to refine few-shot boundary detection.
