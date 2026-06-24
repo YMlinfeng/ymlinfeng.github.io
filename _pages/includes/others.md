@@ -32,6 +32,7 @@
   - *Conferences*: 
     - **NeurIPS 2026**
     - **ICML 2026**
+    - **AAAI 2027(soon)**
     - **ACM Multimedia (ACM MM) 2026**
     - EMNLP 2026
     - ICME 2025-2026
