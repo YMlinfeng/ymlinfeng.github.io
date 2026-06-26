@@ -24,7 +24,7 @@ Jiwen Liu, Shujuan Li, Zhixue Fang, Xiaohan Li, Yan Zhou, **Zijie Meng**, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCA 2026</div><img src='images/parascale_overview.png' alt="ParaScale" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**SCA 2026**] [ParaScale: Scale-Calibrated Camera-Motion Transfer via a Gauge-Invariant Parallax Number](https://github.com/YMlinfeng/) \\
+[**SCA 2026**] [ParaScale: Scale-Calibrated Camera-Motion Transfer via a Gauge-Invariant Parallax Number](https://arxiv.org/abs/2606.19805) \\
 **Zijie Meng**. \\
 [[Project Page]](https://github.com/YMlinfeng/) <span style="color:red"><strong>(CCF-B Top-tier in Computer Animation)</strong></span>
 
@@ -135,7 +135,7 @@ Bo Wei, Huafeng Liu, Cheng Qian, Zizheng Li, Wenbo Wu, **Zijie Meng**. \\
 <div class='paper-box-text' markdown="1">
 
 [**MICCAI 2025**] [SynPo: Boosting Training-Free Few-Shot Medical Segmentation via High-Quality Negative Prompts](https://arxiv.org/pdf/2506.15153?) \\
-Yufei Liu, Haoke Xiao, J Chai, Y Zhang, R Wang, **Zijie Meng**, Zhiming Luo. \\
+Yufei Liu, Haoke Xiao, J Chai, Y Zhang, R Wang, **Zijie Meng**, Zhiming Luo†. \\
 <span style="color:red"><strong>CCF-B Conference / Medical AI Top Conference</strong></span>
 
 - We propose **SynPo**, which boosts training-free medical image segmentation by utilizing high-quality negative prompts to refine few-shot boundary detection.
