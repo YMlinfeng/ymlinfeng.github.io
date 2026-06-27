@@ -122,7 +122,7 @@ Bo Wei, Huafeng Liu, Cheng Qian, Zizheng Li, Wenbo Wu, **Zijie Meng**. \\
 
 [**ICME 2026 <span style="color:red"><strong>Spotlight</strong></span>**] [Decoupling Semantics from Distortions: Multi-Scale Two-Stream Vision-Language Alignment for AI-Generated Image Quality Assessment](https://arxiv.org/abs/2606.16799) \\
 **Zijie Meng**. \\
-<span style="color:red"><strong>CCF-B</strong></span> | [GitHub](https://github.com/YMlinfeng/MST-CLIPIQA)
+<span style="color:red"><strong>CCF-B Conference</strong></span> | [GitHub](https://github.com/YMlinfeng/MST-CLIPIQA)
 
 - We propose a multi-scale two-stream vision-language alignment framework that decouples semantic understanding from distortion perception for robust AI-generated image quality assessment.
 - My contribution focused on the **overall framework design and vision-language alignment strategy**.
