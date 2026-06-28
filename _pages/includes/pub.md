@@ -64,7 +64,7 @@ Jiwen Liu, Shujuan Li, Zhixue Fang, Xiaohan Li, Yan Zhou, **Zijie Meng**, et al.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/omnidrive.png' alt="OmniDrive" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**arXiv 2026**] [OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation](https://github.com/YMlinfeng/) \\
+[**arXiv 2026**] [OmniDrive: An LLM-Choreographed Multi-Agent World Model with Unified Latent Co-Compression for Multi-View Driving Video Generation](https://scipapermill.com/2026/06/27/autonomous-drivings-next-gear-from-interpretable-ai-to-self-play-and-safety-aware-systems/) \\
 **Zijie Meng***, Yufei Liu*, Chengqian Ma, Zhiyu Li, Jiyuan Liu, Wenhua Nie, Bingcai Wei, Shuqin Chen, Weichen Xu, Jiquan Yuan, Miao Zhang†.
 
 - We present OmniDrive, an LLM-choreographed world model for multi-view driving video generation, enabling coordinated multi-agent simulation.
