@@ -13,7 +13,7 @@
 
 - *2026-03* : 🆔 The **Subject-ID Injection** module is now online as a core feature of the **Kling 3.0 ID Subject Library**, achieving SOTA identity consistency. 🎭✨
 
-- *2026-02* : 📑 [**3D-RAD**](https://scholar.google.com/citations?user=YMlinfeng) is accepted to **NeurIPS 2026**. [**Make a Game**](https://github.com/YMlinfeng/360) is accepted to **ICASSP 2026**. Cheers! 🍻
+- *2026-02* : 📑 [**3D-RAD**](https://scholar.google.com/citations?user=YMlinfeng) is accepted to **NeurIPS 2026**. [**Make a Game**](https://github.com/YMlinfeng/360) is accepted to **ICASSP 2026(oral)**. Cheers! 🍻
 
 - *2025-12* : 📄 Finished the technical report for **Avatar 2.0 Identity Preservation**, bridging the gap between static ID and dynamic video. 🤖📑
 
