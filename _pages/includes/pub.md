@@ -107,9 +107,8 @@ Xiaotang Gai, Jiaxiang Liu, Yichen Li, **Zijie Meng**, Jian Wu, Zuozhu Liu.
 <div class='paper-box-text' markdown="1">
 
 [**ACM MM 2025**] [Robust Single Image Sand Removal by Leveraging Uncertainty-aware SAM Priors and Prompt Learning with Refined Perceptual Loss](https://dl.acm.org/doi/10.1145/3664647.3681404) \\
-Bo Wei, Huafeng Liu, Cheng Qian, Zizheng Li, Wenbo Wu, **Zijie Meng**. \\
+Bingcai Wei, Hui Liu, Chuang Qian, Zijian Li, Wangyu Wu, **Zijie Meng**. \\
 <span style="color:red"><strong>CCF-A Conference</strong></span>
-
 - We address the challenging task of sand-dust image restoration by leveraging uncertainty-aware SAM (Segment Anything Model) priors and prompt learning.
 - My contribution focused on the **Llama3 fine-tuning** for generating refined perceptual instructions.
 
