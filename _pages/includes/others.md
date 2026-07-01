@@ -4,7 +4,7 @@
   - Advisor: [Jiwen Liu](linkedin.com/in/继文-刘-805344179?originalSubdomain=cn) and [Pengfei Wan](https://scholar.google.com/citations?hl=zh-CN&user=P6MraaYAAAAJ).
   - Focus: Controllable Video Foundation Models (ID, Motion, Camera) & World Models.
 
-- *2025.09 - Present*, **Hangzhou Fanhua Tech**.
+- *2025.08 - 2025.11*, **Hangzhou Fanhua Tech**.
   - Role: **AI Algorithm Lead**.
   - Focus: Reconstructing business logic via Generative AI & Agentic workflows. Fine-tuning Qwen3-7B for layout generation; Developing a multi-agent workflow system for the company's business operations.
 

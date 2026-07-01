@@ -26,7 +26,7 @@ Jiwen Liu, Shujuan Li, Zhixue Fang, Xiaohan Li, Yan Zhou, **Zijie Meng**, et al.
 
 [**SCA 2026**] [ParaScale: Scale-Calibrated Camera-Motion Transfer via a Gauge-Invariant Parallax Number](https://arxiv.org/abs/2606.19805) \\
 **Zijie Meng**. \\
-[[Project Page]](https://github.com/YMlinfeng/) <span style="color:red"><strong>(CCF-B Top-tier in Computer Animation)</strong></span>
+[[ResearchPod]](https://researchpod.app/paper/2f993ac5-f452-4e6f-996a-45db71c729de) <span style="color:red"><strong>(CCF-B Top-tier in Computer Animation)</strong></span>
 
 - We introduce the **Parallax Number ($\Pi$)**, a dimensionless, gauge-invariant descriptor that enables scale-faithful camera-motion transfer across disparate scenes (e.g., from galaxy sweeps to desk nudges).
 - **ParaScale** is a plug-and-play module that re-realizes camera moves against target depths without retraining, cutting Parallax Consistency Error (PCE) by over **3x** while preserving cinematic rotation.
@@ -109,6 +109,7 @@ Xiaotang Gai, Jiaxiang Liu, Yichen Li, **Zijie Meng**, Jian Wu, Zuozhu Liu.
 [**ACM MM 2025**] [Robust Single Image Sand Removal by Leveraging Uncertainty-aware SAM Priors and Prompt Learning with Refined Perceptual Loss](https://dl.acm.org/doi/10.1145/3664647.3681404) \\
 Bingcai Wei, Hui Liu, Chuang Qian, Zijian Li, Wangyu Wu, **Zijie Meng**. \\
 <span style="color:red"><strong>CCF-A Conference</strong></span>
+
 - We address the challenging task of sand-dust image restoration by leveraging uncertainty-aware SAM (Segment Anything Model) priors and prompt learning.
 - My contribution focused on the **Llama3 fine-tuning** for generating refined perceptual instructions.
 
@@ -123,7 +124,7 @@ Bingcai Wei, Hui Liu, Chuang Qian, Zijian Li, Wangyu Wu, **Zijie Meng**. \\
 **Zijie Meng**. \\
 <span style="color:red"><strong>CCF-B Conference</strong></span> | [GitHub](https://github.com/YMlinfeng/MST-CLIPIQA)
 
-- We propose a multi-scale two-stream vision-language alignment framework that decouples semantic understanding from distortion perception for robust AI-generated image quality assessment.
+- I propose a multi-scale two-stream vision-language alignment framework that decouples semantic understanding from distortion perception for robust AI-generated image quality assessment.
 - My contribution focused on the **overall framework design and vision-language alignment strategy**.
 
 </div>
