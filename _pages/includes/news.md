@@ -35,7 +35,7 @@
 
 - *2023-07* : 🥇 Admitted to **Peking University** via Summer Camp.
 
-- *2023-06* : 👷 Started my internship at **Shanghai AI Lab (OpenMMLab)**, contributing to MMDetection and MMSegmentation. 💻⭐
+- *2023-06* : 👷 Started my internship at **Shanghai AI Lab (OpenMMLab)**, contributing to [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). 💻⭐
 
 - *2022-11* : 🏆 Won the **First Prize** in Fujian Mobile Application Innovation Competition for mural protection work. 🏮🎨
 
