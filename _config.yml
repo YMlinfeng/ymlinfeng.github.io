@@ -25,7 +25,7 @@ baidu_site_verification  : # code-ZxFK3f4pfb
 author:
   name             : "Zijie Meng" #
   avatar           : "images/Avatar.jpg"
-  bio              : "Peking University / Kuaishou Kling Team"
+  bio              : "Peking University / ByteDance Seedance"
   location         : "China Beijing"
   employer         :
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E5%AD%90%E6%9D%B0-%E5%AD%9F-371609417/"
+  linkedin         : "%E5%AD%90%E6%9D%B0-%E5%AD%9F-371609417"
   dblp             : # "https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0009-0003-1915-3381"
   pinterest        :
