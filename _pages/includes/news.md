@@ -5,37 +5,41 @@
 
 # 🔥 News
 
+- *2026-10* : 🎤 I will give an invited talk on **Multimodal Models and Controllable Video Generation** at [**“First Authors Gather: Empowering Talents, Growing Together”**](https://mp.weixin.qq.com/s/5DCi4KQq21_PjeUXis_Bow) ([**Photo Live**](https://live.photoplus.cn/live/pc/8921020/#/live)), part of the 2026 “Wisdom Gathers in Haidian” Talent Theme Week, on October 28. 🎙️🌟
+
+- *2026-09* : 🪄🦉 I serve as a <span style="color:red"><strong>Senior Program Committee (SPC)</strong></span> member for [**AAAI 2027**](https://aaai.org/conference/aaai/aaai-27/).
+
+- *2026-08* : 👷 I start my internship as a Research Intern at the [**ByteDance Seedance Team**](https://www.bytedance.com/en/), focusing on multimodal data construction for next-generation video foundation models. 🌱🎬
+
+- *2026-07* : 📑 [**ARGUS**](https://arxiv.org/abs/2606.11670) is accepted to **NeurIPS 2026**, and **Holistic ID Control** is accepted to **ACM Multimedia 2026** as an <span style="color:red"><strong>Oral</strong></span> paper. Cheers! 🍻
+
 - *2026-06* : 🎬 [**OmniDirector**](https://ymlinfeng.github.io/OmniDirector.github.io/) is officially launched on **Kling Omni**! It enables **General Multi-Shot Camera Cloning**. Check out our [**Project Page**](https://ymlinfeng.github.io/OmniDirector.github.io/) and [**YouTube Demo**](https://www.youtube.com/watch?v=kT6ccsFSYpY)! 🚀🌍
 
-- *2026-05* : 🪄 Our **Motion Controllable Video Generation** project has been successfully integrated into **Kling 3.0**, empowering users with advanced movement control. 🏃‍♂️💨
+- *2026-05* : 🪄 Our **Motion Controllable Video Generation** project has been successfully integrated into [**Kling 3.0**](https://klingai.com/), empowering users with advanced movement control. 🏃‍♂️💨
 
 - *2026-04* : 📑 We release [**ARGUS**](https://arxiv.org/abs/2606.11670) on arXiv, a framework for **Subject-Preserving Video Generation** via stacked multi-view identity mosaic injection. Check it out! 🎭📄
 
-- *2026-03* : 🆔 The **Subject-ID Injection** module is now online as a core feature of the **Kling 3.0 ID Subject Library**, achieving SOTA identity consistency. 🎭✨
+- *2026-03* : 🆔 The **Subject-ID Injection** module is now online as a core feature of the [**Kling 3.0 ID Subject Library**](https://klingai.com/), achieving SOTA identity consistency. 🎭✨
 
-- *2026-02* : 📑 [**3D-RAD**](https://scholar.google.com/citations?user=YMlinfeng) is accepted to **NeurIPS 2026**. [**Make a Game**](https://github.com/YMlinfeng/360) is accepted to **ICASSP 2026(oral)**. Cheers! 🍻
+- *2026-02* : 📑 [**3D-RAD**](https://arxiv.org/abs/2506.11147) is accepted to **NeurIPS 2025**, and [**Make a Game**](https://github.com/YMlinfeng/MAG) is accepted to **ICASSP 2026** as an <span style="color:red"><strong>Oral</strong></span> paper. Cheers! 🍻
 
 - *2025-12* : 📄 Finished the technical report for **Avatar 2.0 Identity Preservation**, bridging the gap between static ID and dynamic video. 🤖📑
 
-- *2025-11* : 👷 I start my internship at **Kuaishou Kling**, focusing on Video Foundation Models. 📸🎬
+- *2025-11* : 👷 I start my internship at [**Kuaishou Kling**](https://klingai.com/), focusing on Video Foundation Models. 📸🎬
 
 - *2025-10* : 📑 [**Robust Sand Removal**](https://dl.acm.org/doi/10.1145/3664647.3681404) is accepted to **ACM Multimedia (ACM MM) 2025**. Congrats to the team! 🏜️🔍
 
-- *2025-09* : 🚀 Joined **Fan Hua Tech** as the **AI Team Lead**, reconstructing business logic with Generative AI and Agentic workflows. 🛠️🧠
-
 - *2025-05* : 👑 I am honored to receive the <span style="color:red"><strong>May Fourth Scholarship</strong></span> (北京大学五四奖学金), the **Highest Individual Honor** at **Peking University** (Top 0.1%). 🎖️🏛️
 
-- *2025-02* : 👷 I join **ByteDance - Seed Team** as a Research Intern, working on high-efficiency video compression and controllable generation. 🎥⚡
+- *2025-02* : 👷 I join [**ByteDance Seed-Robotics**](https://www.bytedance.com/en/) as a Research Intern, working on high-efficiency video compression and controllable generation. 🎥⚡
 
 - *2024-09* : 🏫 Officially started my Master's journey at <span style="color:blue"><strong>Peking University</strong></span>. Meanwhile, I join **360 AI Research** to explore Flux-based architectures. 🖋️🎓
 
 - *2024-06* : 🎓 Graduated from **Xiamen University** with a <span style="color:green"><strong>Double Degree</strong></span> in **Artificial Intelligence** and **Finance** (from WISE). Honored as **Outstanding Graduate** and **Outstanding Thesis**! 📜🏅
 
-- *2024-03* : 📑 [**Orpaint**](https://link.springer.com/article/10.1007/s11432-024-4113-x) is accepted to **Science China Information Sciences (SCIS, CCF-A)**. 🎨🏛️
+- *2024-03* : 📑 [**Orpaint**](https://www.sciengine.com/doi/10.1007/s11432-024-4113-x) is accepted to **Science China Information Sciences (SCIS, CCF-A)**. 🎨🏛️
 
 - *2023-07* : 🥇 Admitted to **Peking University** via Summer Camp.
-
-- *2023-06* : 👷 Started my internship at **Shanghai AI Lab (OpenMMLab)**, contributing to [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMSegmentation](https://github.com/open-mmlab/mmsegmentation). 💻⭐
 
 - *2022-11* : 🏆 Won the **First Prize** in Fujian Mobile Application Innovation Competition for mural protection work. 🏮🎨
 

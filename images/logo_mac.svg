@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" width="240" height="200">
+  <defs>
+    <linearGradient id="macGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1456b8"/>
+      <stop offset="100%" stop-color="#0088e8"/>
+    </linearGradient>
+    <linearGradient id="macAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00a6fb"/>
+      <stop offset="100%" stop-color="#1456b8"/>
+    </linearGradient>
+  </defs>
+  <!-- Outer rounded badge frame (transparent interior) -->
+  <rect x="12" y="16" width="216" height="168" rx="28" ry="28" fill="none" stroke="url(#macGrad)" stroke-width="10"/>
+  <!-- Top decorative neural/media nodes -->
+  <circle cx="52" cy="50" r="6" fill="#00a6fb"/>
+  <circle cx="82" cy="40" r="5" fill="#1456b8"/>
+  <circle cx="112" cy="48" r="6" fill="#0088e8"/>
+  <line x1="52" y1="50" x2="82" y2="40" stroke="#0088e8" stroke-width="3"/>
+  <line x1="82" y1="40" x2="112" y2="48" stroke="#1456b8" stroke-width="3"/>
+  <text x="186" y="54" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="18" fill="#0088e8" letter-spacing="1.5">XMU</text>
+  <!-- Main MAC letters -->
+  <text x="120" y="124" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="68" fill="url(#macGrad)" letter-spacing="3">MAC</text>
+  <!-- Bottom subtitle bar -->
+  <line x1="38" y1="140" x2="202" y2="140" stroke="url(#macAccent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="120" y="163" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="14.5" fill="#1456b8" letter-spacing="1">MEDIA &amp; COMPUTING</text>
+</svg>

@@ -1,46 +1,88 @@
+# 💬 Invited Talks
+
+- *2026.10*, [**Multimodal Models and Controllable Video Generation**](https://mp.weixin.qq.com/s/5DCi4KQq21_PjeUXis_Bow), invited talk at “First Authors Gather: Empowering Talents, Growing Together”, 2026 “Wisdom Gathers in Haidian” Talent Theme Week. [[Announcement]](https://mp.weixin.qq.com/s/5DCi4KQq21_PjeUXis_Bow) \| [[Photo Live]](https://live.photoplus.cn/live/pc/8921020/#/live)
+
+
 # 💻 Internships
 
-- *2025.11 - Present*, **Kuaishou Kling Team**.
-  - Advisor: [Jiwen Liu](linkedin.com/in/继文-刘-805344179?originalSubdomain=cn) and [Pengfei Wan](https://scholar.google.com/citations?hl=zh-CN&user=P6MraaYAAAAJ).
-  - Focus: Controllable Video Foundation Models (ID, Motion, Camera) & World Models.
+<div class="internship-list">
+  <div class="internship-item">
+    <div class="internship-logo-wrap">
+      <img src="images/logo_bytedance.svg" class="internship-logo" alt="ByteDance logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-line"><em>2026.08 - Present</em>, <a href="https://www.bytedance.com/en/"><strong>ByteDance Seedance Team</strong></a> (Research Intern).</div>
+      <div class="internship-line">Advisor: Bingchuan Li and Yan Zeng.</div>
+      <div class="internship-line">Focus: Multimodal reference data construction for Seedance 3.0, including identity, camera, scene, and multi-shot data.</div>
+    </div>
+  </div>
 
-- *2025.09 - 2025.11*, **Hangzhou Fanhua Tech**.
-  - Role: **AI Algorithm Lead**.
-  - Focus: Reconstructing business logic via Generative AI & Agentic workflows. Fine-tuning Qwen3-7B for layout generation; Developing a multi-agent workflow system for the company's business operations.
+  <div class="internship-item">
+    <div class="internship-logo-wrap">
+      <img src="images/logo_kling.png" class="internship-logo" alt="Kuaishou Kling logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-line"><em>2025.11 - 2026.07</em>, <a href="https://klingai.com/"><strong>Kuaishou Kling Team</strong></a> (Research Intern).</div>
+      <div class="internship-line">Advisor: <a href="https://www.linkedin.com/in/%E7%BB%A7%E6%96%87-%E5%88%98-805344179/">Jiwen Liu</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=P6MraaYAAAAJ">Pengfei Wan</a>.</div>
+      <div class="internship-line">Focus: Controllable Video Foundation Models (ID, Motion, Camera) &amp; World Models.</div>
+    </div>
+  </div>
 
-- *2025.02 - 2025.07*, **ByteDance - Seed Team**.
-  - Advisor: [Ziyang Liu](https://scholar.google.com/citations?hl=zh-CN&user=L3igECkAAAAJ) and [Hang Li](https://scholar.google.com/citations?user=nTl5mSwAAAAJ&hl=zh-CN&oi=ao) (Author of *Statistical Learning Methods*).
-  - Focus: Unified Compression for Video Generation & Controllable Driving Video Synthesis.
+  <div class="internship-item">
+    <div class="internship-logo-wrap">
+      <img src="images/logo_bytedance.svg" class="internship-logo" alt="ByteDance logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-line"><em>2025.02 - 2025.07</em>, <a href="https://www.bytedance.com/en/"><strong>ByteDance Seed-Robotics</strong></a> (Research Intern).</div>
+      <div class="internship-line">Advisor: <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=L3igECkAAAAJ">Ziyang Liu</a> and <a href="https://scholar.google.com/citations?user=nTl5mSwAAAAJ&amp;hl=zh-CN&amp;oi=ao">Hang Li</a> (Author of <em>Statistical Learning Methods</em>).</div>
+      <div class="internship-line">Focus: Unified Compression for Video Generation &amp; Controllable Driving Video Synthesis.</div>
+    </div>
+  </div>
 
-- *2024.09 - 2024.12*, **360 AI Research**, Visual Engine Department.
-  - Advisor: [Shanyuan Liu](https://scholar.google.com/citations?user=vutZ7LcAAAAJ&hl=zh-CN) and [Dawei Leng](https://scholar.google.com/citations?hl=zh-CN&user=pv6QIggAAAAJ).
-  - Focus: Bridge Diffusion for Flux & Advanced Controlable Image Generation Architectures (IP-Adapter).
+  <div class="internship-item">
+    <div class="internship-logo-wrap">
+      <img src="images/logo_360.png" class="internship-logo" alt="360 logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-line"><em>2024.09 - 2024.12</em>, <a href="https://ai.360.com/"><strong>360 AI Research</strong></a>, Visual Engine Department (Research Intern).</div>
+      <div class="internship-line">Advisor: <a href="https://scholar.google.com/citations?user=vutZ7LcAAAAJ&amp;hl=zh-CN">Shanyuan Liu</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=pv6QIggAAAAJ">Dawei Leng</a>.</div>
+      <div class="internship-line">Focus: Bridge Diffusion for Flux &amp; Advanced Controllable Image Generation Architectures (IP-Adapter).</div>
+    </div>
+  </div>
 
-- *2023.03 - 2024.07*, **MAC Lab, Xiamen University**.
-  - Advisor: Prof. [Fei Chao](https://scholar.google.com/citations?user=srS6rNMAAAAJ&hl=zh-CN) and Prof. [Rongrong Ji](https://scholar.google.com/citations?user=lRSD7PQAAAAJ&hl=zh-CN).
-  - Focus: **Diffusion Theory Exploration & Image Restoration**. 
-  - Project: Led the **Cultural Relic Restoration** project in collaboration with the **Fujian Museum**, applying Stable Diffusion and Mamba-based blocks to recover Oracle Bone Inscriptions and ancient murals.
-
-- *2023.11 - 2024.03*, **Shanghai AI Laboratory (OpenMMLab)** [**Online**].
-  - Focus: Development and evaluation of [MMDetection](https://github.com/open-mmlab/mmdetection) and [MMSegmentation](https://github.com/open-mmlab/mmsegmentation) (29.2K+ Stars). Responsible for framework reconstruction and interface development.
-
+  <div class="internship-item">
+    <div class="internship-logo-wrap">
+      <img src="images/logo_mac.svg" class="internship-logo" alt="MAC Lab logo">
+    </div>
+    <div class="internship-content">
+      <div class="internship-line"><em>2023.03 - 2024.07</em>, <a href="https://mac.xmu.edu.cn/"><strong>MAC Lab, Xiamen University</strong></a> (Research Intern).</div>
+      <div class="internship-line">Advisor: Prof. <a href="https://scholar.google.com/citations?user=srS6rNMAAAAJ&amp;hl=zh-CN">Fei Chao</a> and Prof. <a href="https://scholar.google.com/citations?user=lRSD7PQAAAAJ&amp;hl=zh-CN">Rongrong Ji</a>.</div>
+      <div class="internship-line">Focus: <strong>Diffusion Theory Exploration &amp; Image Restoration</strong> (Cultural Relic Restoration with the <strong>Fujian Museum</strong>).</div>
+    </div>
+  </div>
+</div>
 
 
 # 🎓 Academic Service
 
+- **Senior Program Committee (SPC)**
+  - [**AAAI 2027**](https://aaai.org/conference/aaai/aaai-27/)
+
 - **Reviewing**  
   - *Conferences*: 
-    - **NeurIPS 2026**
-    - **ICML 2026**
-    - **AAAI 2027(soon)**
-    - **ACM Multimedia (ACM MM) 2026**
-    - EMNLP 2026
-    - ICME 2025-2026
-    - ICASSP 2025
+    - [**NeurIPS 2026**](https://neurips.cc/)
+    - [**ICLR 2026-2027**](https://iclr.cc/)
+    - [**ICML 2026**](https://icml.cc/)
+    - [**AAAI 2026-2027**](https://aaai.org/conference/aaai/aaai-27/)
+    - [**WACV 2026-2027**](https://wacv.thecvf.com/)
+    - [**ACM Multimedia (ACM MM) 2026**](https://www.acmmm.org/)
+    - [EMNLP 2026](https://2026.emnlp.org/)
+    - [ICME 2026](https://2026.ieeeicme.org/)
+    - [ICASSP 2026](https://2026.ieeeicassp.org/)
 
   - *Journals*:
-    - Pattern Recognition (PR)
-    - **Knowledge-Based Systems (KBS)** (Invited Reviewer)
+    - [Pattern Recognition (PR)](https://www.sciencedirect.com/journal/pattern-recognition)
+    - [**Knowledge-Based Systems (KBS)**](https://www.sciencedirect.com/journal/knowledge-based-systems) (Invited Reviewer)
 
 
 # 💬 Miscellaneous
@@ -61,7 +103,7 @@
   - **2025 PKU School of Software and Microelectronics New Year Gala** 
 
 - **Globe Explorer**:  
-  Traveling is my way of resetting. I have explored **8 countries** including France 🇫🇷, Spain 🇪🇸, Thailand 🇹🇭, Singapore 🇸🇬, Mongolia 🇲🇳, Malaysia 🇲🇾, and the Philippines 🇵🇭. Domestically, I have left my footprints in **109 cities** across China. My dream is to explore every corner of the globe. 🌍
+  Traveling is my way of resetting. I have explored **14 countries** including France 🇫🇷, Spain 🇪🇸, the Netherlands 🇳🇱, the United States 🇺🇸, Brazil 🇧🇷, Australia 🇦🇺, Qatar 🇶🇦, Ethiopia 🇪🇹, Thailand 🇹🇭, Singapore 🇸🇬, Mongolia 🇲🇳, Malaysia 🇲🇾, and the Philippines 🇵🇭. Domestically, I have left my footprints in **118 cities** across China. My dream is to explore every corner of the globe. 🌍
 
 
 
